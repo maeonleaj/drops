@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "set NEXT_PRIVATE_TURBOPACK=0 && set PORT=8000 && next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -71,3 +72,4 @@
     "typescript": "^5"
   }
 }
+
